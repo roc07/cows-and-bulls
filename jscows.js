@@ -10,7 +10,6 @@
 //2. Computer starts guessing X numbers
 
 
-
 const humanNumber = [1, 2, 3, 4];
 const playNumber = 4;
 const maxNumber = 9;
